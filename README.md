@@ -4,6 +4,12 @@ Splits a Long Single Page PDF into 8.5x11 pages
 
 # Usage
 
+## Website
+
+No downloads required
+
+### [Visit PDF Splitter Tool](https://gtnhen.pythonanywhere.com/)
+
 ## iOS Shortcut
 
 This is the easiest method. Just download the Shortcuts script and input your long PDF
